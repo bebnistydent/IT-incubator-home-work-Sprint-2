@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/IT-incubator-home-work-Sprint-2/static/css/main.78f2cfa5.css",
-    "main.js": "/IT-incubator-home-work-Sprint-2/static/js/main.f516cf68.js",
+    "main.css": "/IT-incubator-home-work-Sprint-2/static/css/main.da8212be.css",
+    "main.js": "/IT-incubator-home-work-Sprint-2/static/js/main.83962a0a.js",
     "static/js/787.66cb4309.chunk.js": "/IT-incubator-home-work-Sprint-2/static/js/787.66cb4309.chunk.js",
     "static/media/avatar.png": "/IT-incubator-home-work-Sprint-2/static/media/avatar.d947cb9d0d13765666b6.png",
     "static/media/404.svg": "/IT-incubator-home-work-Sprint-2/static/media/404.dae7af4892f2a3abe805a174178919f2.svg",
@@ -10,12 +10,12 @@
     "index.html": "/IT-incubator-home-work-Sprint-2/index.html",
     "static/media/checked.svg": "/IT-incubator-home-work-Sprint-2/static/media/checked.0b6a1bcf5d417ff0a947.svg",
     "static/media/burger.svg": "/IT-incubator-home-work-Sprint-2/static/media/burger.e4e6b98e4ee0b2dfcd76d02a9eed2e34.svg",
-    "main.78f2cfa5.css.map": "/IT-incubator-home-work-Sprint-2/static/css/main.78f2cfa5.css.map",
-    "main.f516cf68.js.map": "/IT-incubator-home-work-Sprint-2/static/js/main.f516cf68.js.map",
+    "main.da8212be.css.map": "/IT-incubator-home-work-Sprint-2/static/css/main.da8212be.css.map",
+    "main.83962a0a.js.map": "/IT-incubator-home-work-Sprint-2/static/js/main.83962a0a.js.map",
     "787.66cb4309.chunk.js.map": "/IT-incubator-home-work-Sprint-2/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.78f2cfa5.css",
-    "static/js/main.f516cf68.js"
+    "static/css/main.da8212be.css",
+    "static/js/main.83962a0a.js"
   ]
 }
